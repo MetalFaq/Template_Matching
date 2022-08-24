@@ -1,0 +1,7 @@
+gluoncv==0.10.5.post0
+matplotlib==3.5.3
+MTM==1.0.0
+numpy==1.23.2
+opencv_python_headless==4.6.0.66
+scikit_image==0.19.3
+skimage==0.0
